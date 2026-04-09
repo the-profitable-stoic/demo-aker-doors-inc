@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Aker Doors, Inc",
+    "phone": "+17634344545",
+    "category": "garage door installer",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Minneapolis Garage Door Experts",
+      "heroSubline": "Reliable garage door installation and repair services. Winter weather is no match for our expertise.",
+      "aboutTitle": "Aker Doors: Built on Trust",
+      "aboutText": [
+        "Aker Doors, Inc. started with a simple goal: provide Minneapolis homeowners with dependable garage door solutions. We're a family-owned business, born and raised right here in the Twin Cities, and we understand the unique challenges our climate presents.",
+        "We don't cut corners. Our team uses only the highest-quality materials and proven installation techniques. We believe in doing the job right the first time, ensuring your garage door operates smoothly and safely for years to come.",
+        "We're proud to be part of the Minneapolis community. We actively support local initiatives and strive to build lasting relationships with our customers. When you choose Aker Doors, you're choosing a neighbor you can trust."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Garage door emergencies don't wait for business hours. We're available around the clock to address urgent repairs."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our certified technicians ensure precise and secure installation for optimal performance and longevity."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use weather-resistant, high-quality materials designed to withstand Minnesota's harsh climate."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprise charges. We provide clear and upfront pricing for all our services."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Garage Door Quote",
+      "ctaSubline": "Contact us today for a personalized estimate and experience the Aker Doors difference."
+    },
+    "services": [
+      {
+        "slug": "garage-door-installation",
+        "name": "Garage Door Installation",
+        "shortDescription": "Expert garage door installation for Minneapolis homes.",
+        "description": "Installing a new garage door is a significant investment, and proper installation is crucial for its performance and longevity. At Aker Doors, Inc., our experienced technicians handle every aspect of the installation process with precision and care. We start by assessing your specific needs and recommending the best garage door type and style for your home, considering factors like insulation, security, and aesthetics. We work with all major brands and offer a wide selection of materials, including steel, wood, and composite. \n\nOur installation process includes removing your old door, preparing the opening, installing the new door and track system, connecting the opener, and ensuring proper alignment and functionality. We also pay close attention to weather sealing to prevent drafts and moisture damage, which is especially important in Minneapolis winters. We’ll thoroughly test the door’s operation and safety features before we leave and answer any questions you may have. We also provide haul-away services for the old garage door.\n\nWe understand the architectural diversity of Minneapolis, from the historic homes in Northeast to the modern condos downtown. Our team is skilled in installing garage doors that complement a variety of architectural styles. With Aker Doors, you can be confident that your new garage door will enhance the curb appeal and value of your home.",
+        "process": [
+          "Step 1: Consultation and Selection - We help you choose the right door for your needs and budget.",
+          "Step 2: Removal of Old Door - Careful removal and responsible disposal of your existing garage door.",
+          "Step 3: Professional Installation - Precise installation of the new door, tracks, and opener.",
+          "Step 4: Testing and Adjustment - Thorough testing to ensure smooth and safe operation."
+        ],
+        "benefits": [
+          "Enhanced Home Value",
+          "Improved Security",
+          "Increased Energy Efficiency",
+          "Curb Appeal Boost"
+        ],
+        "faq": [
+          {
+            "question": "How long does garage door installation take?",
+            "answer": "Typically, a standard garage door installation takes between 4 to 8 hours, depending on the complexity of the project and any necessary modifications to the opening."
+          },
+          {
+            "question": "What type of garage door is best for Minneapolis winters?",
+            "answer": "Insulated steel garage doors are an excellent choice for Minneapolis winters. They provide superior insulation, preventing heat loss and keeping your garage warmer."
+          },
+          {
+            "question": "Do you offer warranties on your installations?",
+            "answer": "Yes, we offer comprehensive warranties on both the garage doors and our installation services. We stand behind our work and are committed to your satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-repair",
+        "name": "Garage Door Repair",
+        "shortDescription": "Fast and reliable garage door repair services in Minneapolis.",
+        "description": "A malfunctioning garage door can be a major inconvenience and a security risk. Aker Doors, Inc. provides prompt and reliable garage door repair services throughout Minneapolis and the surrounding suburbs. Our experienced technicians are equipped to handle a wide range of issues, from broken springs and cables to faulty openers and damaged panels.\n\nWe understand that garage door problems often occur unexpectedly. That's why we offer 24/7 emergency repair services to address urgent situations. Whether your door is stuck open, won't close, or is making unusual noises, we'll respond quickly to diagnose the problem and provide an effective solution. We carry a full inventory of replacement parts to minimize downtime and get your door back in working order as soon as possible.\n\nWe're familiar with the common garage door issues that arise in Minneapolis due to our harsh winters. Freeze-thaw cycles can cause damage to tracks and rollers, while heavy snow and ice can strain the opener. Our technicians are trained to identify and address these specific challenges, ensuring your garage door is prepared to withstand the elements. We also offer preventative maintenance services to help you avoid costly repairs in the future. We'll inspect your door, lubricate moving parts, and make any necessary adjustments to keep it running smoothly.",
+        "process": [
+          "Step 1: Diagnostic Assessment - Thorough inspection to identify the root cause of the problem.",
+          "Step 2: Transparent Quote - Clear and upfront pricing for the necessary repairs.",
+          "Step 3: Expert Repair - Skilled technicians perform the repairs using quality parts.",
+          "Step 4: Testing and Verification - Ensuring the door operates safely and smoothly after the repair."
+        ],
+        "benefits": [
+          "24/7 Emergency Service",
+          "Fast Response Times",
+          "Experienced Technicians",
+          "Quality Replacement Parts"
+        ],
+        "faq": [
+          {
+            "question": "How much does garage door repair cost?",
+            "answer": "The cost of garage door repair varies depending on the type of problem and the parts required. We provide free estimates before starting any work, so you'll know exactly what to expect."
+          },
+          {
+            "question": "How often should I have my garage door serviced?",
+            "answer": "We recommend having your garage door serviced at least once a year to ensure it's operating safely and efficiently. Regular maintenance can help prevent costly repairs down the road."
+          },
+          {
+            "question": "What are the signs that my garage door needs repair?",
+            "answer": "Signs that your garage door needs repair include unusual noises, slow or jerky movement, difficulty opening or closing, and visible damage to the door or its components."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Minneapolis' reliable garage door opener repair and replacement.",
+        "description": "A malfunctioning garage door opener can leave you stranded outside in the Minneapolis cold or compromise your home's security. Aker Doors, Inc. specializes in repairing and replacing garage door openers of all makes and models. Whether your opener is making strange noises, not responding to the remote, or simply not working at all, our experienced technicians can diagnose the problem and provide an effective solution.\n\nWe understand the importance of a properly functioning garage door opener for your convenience and safety. That's why we offer same-day service and emergency repairs to address urgent issues. We carry a wide selection of replacement parts, including motors, circuit boards, and remote controls, to minimize downtime and get your opener back in working order quickly.\n\nWe're familiar with the challenges that Minneapolis weather can pose to garage door openers. Extreme temperature fluctuations can cause components to fail, while power outages can disrupt their programming. Our technicians are trained to troubleshoot these specific issues and provide solutions that will withstand the elements. We also offer recommendations for upgrading to newer, more reliable opener models with advanced features like smartphone connectivity and battery backup.",
+        "process": [
+          "Step 1: Opener Diagnostics - Identifying the specific issue with your garage door opener.",
+          "Step 2: Repair or Replacement - Providing the best solution for your opener's problem.",
+          "Step 3: Programming and Testing - Ensuring proper functionality of remotes and safety features.",
+          "Step 4: Customer Education - Explaining the operation and maintenance of your opener."
+        ],
+        "benefits": [
+          "Same-Day Service",
+          "Experienced Technicians",
+          "Wide Selection of Parts",
+          "Advanced Opener Options"
+        ],
+        "faq": [
+          {
+            "question": "Why is my garage door opener not working?",
+            "answer": "There are several reasons why your garage door opener might not be working, including a dead battery in the remote, a power outage, a broken motor, or a faulty circuit board. Our technicians can diagnose the problem and provide the appropriate repair."
+          },
+          {
+            "question": "How long do garage door openers last?",
+            "answer": "The lifespan of a garage door opener typically ranges from 10 to 15 years, depending on the quality of the unit and how often it's used. Regular maintenance can help extend its lifespan."
+          },
+          {
+            "question": "Should I repair or replace my garage door opener?",
+            "answer": "Whether to repair or replace your garage door opener depends on the age and condition of the unit, as well as the cost of repairs. If your opener is more than 10 years old and requires extensive repairs, it may be more cost-effective to replace it with a new model."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-spring-repair",
+        "name": "Garage Door Spring Repair",
+        "shortDescription": "Expert garage door spring repair for Minneapolis homeowners.",
+        "description": "Garage door springs are under immense tension and play a critical role in the safe and smooth operation of your door. When a spring breaks, it can be dangerous to attempt repairs yourself. Aker Doors, Inc. provides professional garage door spring repair and replacement services in Minneapolis. Our trained technicians have the expertise and equipment to safely handle spring repairs and ensure your door is operating correctly.\n\nWe understand the urgency of a broken garage door spring. That's why we offer 24/7 emergency service to address these situations promptly. We carry a full inventory of replacement springs to match your door's specific requirements and ensure a proper fit. Our technicians will carefully remove the broken spring and install a new one, making sure it's properly tensioned and balanced.\n\nWe're familiar with the types of springs commonly used in Minneapolis homes, including torsion springs and extension springs. We'll assess your door's configuration and recommend the best spring type for your needs. We also offer recommendations for upgrading to heavier-duty springs that can withstand the rigors of daily use and the harsh Minnesota climate.",
+        "process": [
+          "Step 1: Safety Assessment - Ensuring the area is safe for spring replacement.",
+          "Step 2: Spring Removal - Safely removing the broken or damaged spring.",
+          "Step 3: New Spring Installation - Installing the correct spring with proper tension.",
+          "Step 4: Balance and Testing - Verifying the door's balance and smooth operation."
+        ],
+        "benefits": [
+          "24/7 Emergency Service",
+          "Trained Technicians",
+          "Safe and Reliable Repairs",
+          "Quality Replacement Springs"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door spring is broken?",
+            "answer": "Signs of a broken garage door spring include a loud bang, a door that's difficult to lift, a door that's hanging unevenly, or a visible break in the spring itself."
+          },
+          {
+            "question": "Can I replace a garage door spring myself?",
+            "answer": "No, replacing a garage door spring is extremely dangerous and should only be done by a trained professional. The springs are under high tension and can cause serious injury if handled improperly."
+          },
+          {
+            "question": "How long do garage door springs last?",
+            "answer": "The lifespan of a garage door spring typically ranges from 7 to 12 years, depending on the quality of the spring and how often the door is used. Regular maintenance can help extend its lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-cable-repair",
+        "name": "Garage Door Cable Repair",
+        "shortDescription": "Reliable garage door cable repair and replacement in Minneapolis.",
+        "description": "Garage door cables work in conjunction with the springs to lift and lower your garage door safely. If a cable breaks or becomes frayed, it can cause the door to become unbalanced or even collapse. Aker Doors, Inc. provides professional garage door cable repair and replacement services in Minneapolis. Our experienced technicians can quickly diagnose cable issues and provide effective solutions to restore your door's functionality.\n\nWe understand the inconvenience and safety concerns associated with damaged garage door cables. That's why we offer prompt and reliable service to address these issues. We carry a wide selection of replacement cables to match your door's specific requirements. Our technicians will carefully remove the damaged cable and install a new one, ensuring it's properly secured and tensioned.\n\nWe're familiar with the different types of cable systems used in Minneapolis homes, including torsion cable systems and extension cable systems. We'll assess your door's configuration and recommend the best cable type for your needs. We also offer recommendations for upgrading to heavier-duty cables that can withstand the rigors of daily use and the harsh Minnesota climate.",
+        "process": [
+          "Step 1: Cable Inspection - Assessing the condition of the garage door cables.",
+          "Step 2: Safety Measures - Ensuring the door is secured before cable replacement.",
+          "Step 3: Cable Replacement - Installing new cables with proper tension and alignment.",
+          "Step 4: Door Balancing - Adjusting the door's balance for smooth operation."
+        ],
+        "benefits": [
+          "Prompt and Reliable Service",
+          "Experienced Technicians",
+          "Safe and Secure Repairs",
+          "Quality Replacement Cables"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a damaged garage door cable?",
+            "answer": "Signs of a damaged garage door cable include frayed or broken strands, a door that's hanging unevenly, a door that's difficult to lift, or a cable that's visibly loose or detached."
+          },
+          {
+            "question": "Can I repair a garage door cable myself?",
+            "answer": "No, repairing a garage door cable is dangerous and should only be done by a trained professional. The cables are under high tension and can cause serious injury if handled improperly."
+          },
+          {
+            "question": "How long do garage door cables last?",
+            "answer": "The lifespan of a garage door cable typically ranges from 5 to 10 years, depending on the quality of the cable and how often the door is used. Regular maintenance can help extend its lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-weather-sealing",
+        "name": "Garage Door Weather Sealing",
+        "shortDescription": "Protect your garage from Minneapolis weather with expert sealing.",
+        "description": "Minneapolis winters demand robust protection against the elements. Aker Doors, Inc. offers professional garage door weather sealing services to keep your garage warm, dry, and energy-efficient. Proper weather sealing prevents drafts, moisture, and pests from entering your garage, protecting your belongings and reducing energy costs.\n\nOur experienced technicians will thoroughly inspect your garage door and identify any gaps or cracks where air and moisture can penetrate. We'll then install high-quality weather stripping around the perimeter of the door and along the bottom edge to create a tight seal. We use durable, weather-resistant materials that are designed to withstand the harsh Minnesota climate.\n\nWe also offer recommendations for insulating your garage door to further enhance its energy efficiency. Insulating your garage door can help reduce heat loss in the winter and keep your garage cooler in the summer, saving you money on energy bills. Our team is skilled in sealing all types of garage doors, ensuring a perfect fit and optimal performance.",
+        "process": [
+          "Step 1: Inspection - Identifying gaps and cracks in the door's sealing.",
+          "Step 2: Material Selection - Choosing the right weather stripping for your door.",
+          "Step 3: Professional Installation - Applying new weather stripping for a tight seal.",
+          "Step 4: Quality Check - Ensuring complete protection against the elements."
+        ],
+        "benefits": [
+          "Reduced Energy Costs",
+          "Protection from the Elements",
+          "Pest Prevention",
+          "Improved Comfort"
+        ],
+        "faq": [
+          {
+            "question": "Why is weather sealing important for my garage door?",
+            "answer": "Weather sealing prevents drafts, moisture, and pests from entering your garage, protecting your belongings and reducing energy costs. It also helps to maintain a more consistent temperature in your garage."
+          },
+          {
+            "question": "How often should I replace my garage door weather stripping?",
+            "answer": "We recommend replacing your garage door weather stripping every 2 to 3 years, or sooner if you notice any signs of damage or wear."
+          },
+          {
+            "question": "What type of weather stripping is best for my garage door?",
+            "answer": "The best type of weather stripping for your garage door depends on the type of door and the size of the gaps you're trying to seal. Our technicians can assess your specific needs and recommend the appropriate weather stripping."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Paul",
+        "slug": "st-paul-mn",
+        "state": "MN",
+        "content": "Aker Doors, Inc. is proud to offer garage door installation and repair services to the residents of St. Paul, Minnesota. From the historic Victorian homes along Summit Avenue to the more modern residences throughout the city, we understand the unique needs of St. Paul homeowners. Our team is equipped to handle any garage door issue, ensuring your home is safe, secure, and looking its best. We are experts in insulating garage doors for the extreme cold winters. \n\nWe offer a comprehensive range of services, including garage door installation, repair, maintenance, and opener replacement. Whether you need a new garage door to complement your Victorian-era home or a simple repair to get your existing door working smoothly, Aker Doors, Inc. is here to help. We use only the highest quality materials and employ experienced technicians to ensure your complete satisfaction.",
+        "localContext": "St. Paul is known for its beautiful Victorian architecture, especially along Summit Avenue, and its vibrant cultural scene.",
+        "nearbyAreas": [
+          "Minneapolis",
+          "West St. Paul",
+          "Maplewood"
+        ]
+      },
+      {
+        "city": "Plymouth",
+        "slug": "plymouth-mn",
+        "state": "MN",
+        "content": "Aker Doors, Inc. is your trusted garage door service provider in Plymouth, Minnesota. We understand the specific needs of Plymouth homeowners, many of whom reside in established suburban homes built in the 1970s and 80s. Our team is experienced in servicing a wide variety of garage door styles and brands, ensuring your garage door functions reliably and efficiently, especially during the harsh Minnesota winters. We are experts in insulating garage doors for the extreme cold winters.\n\nFrom garage door repairs and replacements to new installations and opener services, we offer a full suite of solutions to meet your needs. We pride ourselves on providing prompt, professional service and using only the highest quality parts and materials. Count on Aker Doors, Inc. to keep your garage door in top condition.",
+        "localContext": "Plymouth is a well-established suburban community with many homes built in the 1970s and 80s, requiring specific knowledge for garage door maintenance and repair.",
+        "nearbyAreas": [
+          "Maple Grove",
+          "Minnetonka",
+          "Wayzata"
+        ]
+      },
+      {
+        "city": "Eden Prairie",
+        "slug": "eden-prairie-mn",
+        "state": "MN",
+        "content": "Aker Doors, Inc. proudly serves the residents of Eden Prairie, Minnesota, offering expert garage door installation, repair, and maintenance services. With its many planned developments from the 1980s and 90s, Eden Prairie presents a unique blend of modern homes requiring specialized garage door solutions. We understand the importance of a reliable and efficient garage door, especially during the extreme cold winters. We are experts in insulating garage doors for the extreme cold winters.\n\nWe are committed to providing exceptional service and top-quality products to Eden Prairie homeowners. Whether you need a new garage door to enhance your home's curb appeal or a quick repair to address a malfunctioning opener, Aker Doors, Inc. is here to help. Our experienced technicians are equipped to handle any garage door issue with precision and care.",
+        "localContext": "Eden Prairie features many planned residential developments from the 1980s and 90s, influencing the style and functionality of garage doors in the area.",
+        "nearbyAreas": [
+          "Minnetonka",
+          "Hopkins",
+          "Bloomington"
+        ]
+      },
+      {
+        "city": "Maple Grove",
+        "slug": "maple-grove-mn",
+        "state": "MN",
+        "content": "Aker Doors, Inc. is your local expert for garage door services in Maple Grove, Minnesota. We are familiar with the family-oriented developments that define Maple Grove, many of which were built in the 1990s and 2000s. We are expert at helping homeowners find the right garage door for their home. We understand the need for durable, reliable garage doors that can withstand the demands of a busy family and the challenges of Minnesota's climate. We are experts in insulating garage doors for the extreme cold winters. \n\nWe offer a comprehensive range of garage door services, including installation, repair, maintenance, and opener replacement. Whether you're looking to upgrade your garage door to a more modern style or need a quick repair to keep your existing door functioning smoothly, Aker Doors, Inc. is here to help. We are committed to providing exceptional service and exceeding your expectations.",
+        "localContext": "Maple Grove is characterized by family-friendly developments built in the 1990s and 2000s, requiring durable and reliable garage door solutions. ",
+        "nearbyAreas": [
+          "Plymouth",
+          "Osseo",
+          "Rogers"
+        ]
+      },
+      {
+        "city": "Bloomington",
+        "slug": "bloomington-mn",
+        "state": "MN",
+        "content": "Aker Doors, Inc. proudly serves Bloomington, Minnesota, providing expert garage door solutions to homeowners throughout the city. With its established ranch-style homes from the 1960s and 70s, Bloomington presents unique challenges and opportunities for garage door installation and repair. We understand the importance of a functional and aesthetically pleasing garage door that complements your home's architecture. We are experts in insulating garage doors for the extreme cold winters.\n\nFrom garage door repairs and maintenance to new installations and opener replacements, we offer a full suite of services to meet your needs. We pride ourselves on providing prompt, professional service and using only the highest quality parts and materials. Trust Aker Doors, Inc. to keep your garage door in optimal condition for years to come.",
+        "localContext": "Bloomington's housing stock largely consists of ranch-style homes built in the 1960s and 70s, influencing the style and functionality of garage doors in the area.",
+        "nearbyAreas": [
+          "Richfield",
+          "Edina",
+          "Eden Prairie"
+        ]
+      },
+      {
+        "city": "Minnetonka",
+        "slug": "minnetonka-mn",
+        "state": "MN",
+        "content": "Aker Doors, Inc. is a leading provider of garage door services in Minnetonka, Minnesota. From older homes to newer constructions, we are experts at helping homeowners find the right garage door for their home. We understand the diverse needs of Minnetonka homeowners and offer a wide range of garage door solutions to fit any style and budget. Our team is dedicated to providing exceptional service and ensuring your complete satisfaction. We are experts in insulating garage doors for the extreme cold winters.\n\nWhether you need a new garage door installed, a repair to your existing door, or routine maintenance to keep it running smoothly, Aker Doors, Inc. is here to help. We use only the highest quality materials and employ experienced technicians to ensure your garage door is functioning properly and looking its best.",
+        "localContext": "Minnetonka features a mix of older and newer homes, requiring a diverse range of garage door styles and solutions.",
+        "nearbyAreas": [
+          "Plymouth",
+          "Eden Prairie",
+          "Hopkins"
+        ]
+      },
+      {
+        "city": "Edina",
+        "slug": "edina-mn",
+        "state": "MN",
+        "content": "Aker Doors, Inc. is dedicated to providing top-quality garage door services to the residents of Edina, Minnesota. Known for its well-maintained homes and discerning homeowners, Edina demands the best in garage door products and services. We understand the importance of a garage door that not only functions flawlessly but also enhances the curb appeal of your home. We are experts in insulating garage doors for the extreme cold winters. \n\nWe offer a comprehensive range of services, including garage door installation, repair, maintenance, and opener replacement. Whether you're looking to upgrade your garage door to a more modern style or need a quick repair to keep your existing door functioning smoothly, Aker Doors, Inc. is here to help. We are committed to providing exceptional service and exceeding your expectations.",
+        "localContext": "Edina is known for its well-maintained homes and discerning homeowners, demanding high-quality garage door products and services.",
+        "nearbyAreas": [
+          "Richfield",
+          "Bloomington",
+          "St. Louis Park"
+        ]
+      },
+      {
+        "city": "Richfield",
+        "slug": "richfield-mn",
+        "state": "MN",
+        "content": "Aker Doors, Inc. is proud to offer comprehensive garage door services to the residents of Richfield, Minnesota. With a mix of older and newer homes, Richfield presents a variety of garage door needs. We understand the importance of a reliable and efficient garage door, especially given Minnesota's challenging climate. We are experts in insulating garage doors for the extreme cold winters. \n\nWe offer a full range of services, including garage door installation, repair, maintenance, and opener replacement. Whether you need a new garage door to enhance your home's curb appeal or a quick repair to address a malfunctioning opener, Aker Doors, Inc. is here to help. Our experienced technicians are equipped to handle any garage door issue with precision and care.",
+        "localContext": "Richfield features a diverse mix of older and newer homes, requiring a wide range of garage door solutions.",
+        "nearbyAreas": [
+          "Bloomington",
+          "Edina",
+          "Minneapolis"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "service": "Garage Door Spring Repair",
+        "text": "Aker Doors saved the day! Our garage door spring broke on a Saturday morning, and we couldn't get our car out. They were here within an hour and had it fixed quickly. The technician was professional and friendly. Highly recommended!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Michael K.",
+        "rating": 4,
+        "service": "Garage Door Opener Replacement",
+        "text": "Our old garage door opener finally gave out. Aker Doors helped us choose a new one with all the latest features. The installation was smooth and efficient. We are very happy with the new opener and the service we received.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Garage Door Installation",
+        "text": "We recently built a new garage and needed a new door installed. Aker Doors provided excellent service from start to finish. They helped us choose the perfect door for our home and installed it with precision. The door looks great and works perfectly!",
+        "date": "2025-04-05"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Garage Door Repair",
+        "text": "Aker Doors repaired our garage door after a minor accident. The technician was able to quickly assess the damage and make the necessary repairs. The door is as good as new! They were very professional and reasonably priced.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Jessica M.",
+        "rating": 4,
+        "service": "Garage Door Weather Sealing",
+        "text": "We hired Aker Doors to weather seal our garage door before winter. They did a thorough job, and we've already noticed a difference in the temperature inside the garage. They were prompt, courteous, and did great work.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Tom S.",
+        "rating": 5,
+        "service": "Garage Door Spring Repair",
+        "text": "Excellent service! My garage door spring broke late at night, and Aker Doors had someone out to fix it within an hour. The technician was knowledgeable and efficient. I highly recommend them for any garage door needs.",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Aker Doors | Minneapolis Garage Door Services",
+        "description": "Reliable garage door installation and repair in Minneapolis, MN. Expert service for springs, openers, and new doors."
+      },
+      "about": {
+        "title": "About Aker Doors - Minneapolis Garage Door Experts",
+        "description": "Learn about Aker Doors, a trusted Minneapolis garage door company. Quality installation, repair, and customer service guaranteed."
+      },
+      "services": {
+        "title": "Aker Doors Services | Minneapolis Garage Door Repair",
+        "description": "Comprehensive garage door services in Minneapolis: installation, repair, opener service, spring replacement & weather sealing."
+      },
+      "contact": {
+        "title": "Contact Aker Doors | Minneapolis Garage Door Company",
+        "description": "Contact Aker Doors for garage door service in Minneapolis. Get a free quote for installation, repair, and maintenance."
+      },
+      "reviews": {
+        "title": "Aker Doors Reviews | Minneapolis Garage Door Service",
+        "description": "Read reviews for Aker Doors, a top-rated garage door company in Minneapolis. See why our customers trust us for quality service."
+      },
+      "service-areas": {
+        "title": "Aker Doors Service Areas | Minneapolis MN",
+        "description": "Aker Doors provides garage door services throughout the Minneapolis metro area. Find service in your city today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-installation": "/images/service-garage-door-installation.webp",
+      "garage-door-repair": "/images/service-garage-door-repair.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-spring-repair": "/images/service-garage-door-spring-repair.webp",
+      "garage-door-cable-repair": "/images/service-garage-door-cable-repair.webp",
+      "garage-door-weather-sealing": "/images/service-garage-door-weather-sealing.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-installation": {
+        "src": "/images/service-garage-door-installation.webp",
+        "srcset": "/images/service-garage-door-installation-400w.webp 400w, /images/service-garage-door-installation-800w.webp 800w, /images/service-garage-door-installation-1200w.webp 1200w, /images/service-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-repair": {
+        "src": "/images/service-garage-door-repair.webp",
+        "srcset": "/images/service-garage-door-repair-400w.webp 400w, /images/service-garage-door-repair-800w.webp 800w, /images/service-garage-door-repair-1200w.webp 1200w, /images/service-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-spring-repair": {
+        "src": "/images/service-garage-door-spring-repair.webp",
+        "srcset": "/images/service-garage-door-spring-repair-400w.webp 400w, /images/service-garage-door-spring-repair-800w.webp 800w, /images/service-garage-door-spring-repair-1200w.webp 1200w, /images/service-garage-door-spring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-cable-repair": {
+        "src": "/images/service-garage-door-cable-repair.webp",
+        "srcset": "/images/service-garage-door-cable-repair-400w.webp 400w, /images/service-garage-door-cable-repair-800w.webp 800w, /images/service-garage-door-cable-repair-1200w.webp 1200w, /images/service-garage-door-cable-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-weather-sealing": {
+        "src": "/images/service-garage-door-weather-sealing.webp",
+        "srcset": "/images/service-garage-door-weather-sealing-400w.webp 400w, /images/service-garage-door-weather-sealing-800w.webp 800w, /images/service-garage-door-weather-sealing-1200w.webp 1200w, /images/service-garage-door-weather-sealing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
